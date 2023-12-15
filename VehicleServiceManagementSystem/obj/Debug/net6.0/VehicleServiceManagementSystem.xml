@@ -1,0 +1,147 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VehicleServiceManagementSystem</name>
+    </assembly>
+    <members>
+        <member name="M:VehicleServiceManagementSystem.Controllers.LoginController.Login(DataAccessLayer.Models.User)">
+            <summary>
+            Login user through user details.
+            </summary>
+            <param name="userEntered"></param>
+            <returns></returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.OrderDetailsController.SearchByRegistrationNumber(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Get the order deatils for a service.
+            </summary>
+            <param name="SearchedString">The required registration number.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.ServiceDetails">
+            <summary>
+            Get details an existing services in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.ServiceDetailsByVehicleId(System.Int32)">
+            <summary>
+            Get details an existing service for a vehicle in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.Create(DataAccessLayer.Models.ServiceDetail)">
+            <summary>
+            Create a service in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.SearchByServiceId(System.Int32)">
+            <summary>
+            Search a service by service id in the system.
+            </summary>
+            <param name="id">The required id.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.Delete(System.Int32)">
+            <summary>
+            Delete an existing service Details in the system.
+            </summary>
+            <param name="id">Id of the service.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.ServiceController.Update(System.Int32,DataAccessLayer.Models.ServiceDetail)">
+            <summary>
+            Update an existing service in the system.
+            </summary>
+            <param name="service">The service with updated information and id.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Details">
+            <summary>
+            Get details an existing users in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.DetailsOfCustomers">
+            <summary>
+            Get details an existing customers in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Create(DataAccessLayer.Models.User)">
+            <summary>
+            Create a User in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.SearchByName(System.String)">
+            <summary>
+            Search a user by name in the system.
+            </summary>
+            <param name="SearchedString">The required name.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Delete(System.Int32)">
+            <summary>
+            Delete an existing user in the system.
+            </summary>
+            <param name="id">Id of the user.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Update(System.Int32,DataAccessLayer.Models.User)">
+            <summary>
+            Update an existing user in the system.
+            </summary>
+            <param name="user">The user with updated information and id of user.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Enable(System.Int32)">
+            <summary>
+            Enable an existing user in the system.
+            </summary>
+            <param name="customerId">Id of user.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.UserController.Disable(System.Int32)">
+            <summary>
+            Disable an existing user in the system.
+            </summary>
+            <param name="customerId">Id of user.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.VehicleController.Details">
+            <summary>
+            Get details an existing vehicles in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.VehicleController.Create(DataAccessLayer.Models.Vehicle)">
+            <summary>
+            Create a vehicle in the system.
+            </summary>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.VehicleController.SearchByRegistrationNumber(System.String)">
+            <summary>
+            Search a vehicle by registration number in the system.
+            </summary>
+            <param name="SearchedString">The required registration number.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.VehicleController.Delete(System.Int32)">
+            <summary>
+            Delete an existing vehicle in the system.
+            </summary>
+            <param name="id">Id of the Vehicle.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+        <member name="M:VehicleServiceManagementSystem.Controllers.VehicleController.Update(System.String,DataAccessLayer.Models.Vehicle)">
+            <summary>
+            Update an existing vehicle in the system.
+            </summary>
+            <param name="vehicle">The vehicle with updated information and registration number.</param>
+            <returns>A response indicating the success or failure of the operation.</returns>
+        </member>
+    </members>
+</doc>

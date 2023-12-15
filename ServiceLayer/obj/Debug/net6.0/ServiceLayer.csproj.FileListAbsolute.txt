@@ -1,0 +1,17 @@
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\ServiceLayer.deps.json
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\ServiceLayer.runtimeconfig.json
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\ServiceLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\ServiceLayer.pdb
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.AssemblyReference.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfoInputs.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.AssemblyInfo.cs
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CoreCompileInputs.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.csproj.CopyComplete
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\refint\ServiceLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.pdb
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ServiceLayer.genruntimeconfig.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\ServiceLayer\obj\Debug\net6.0\ref\ServiceLayer.dll

@@ -1,0 +1,14 @@
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\refint\DataAccessLayer.dll
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
+C:\Users\sanskar.d.sharma\Desktop\VehicleServiceManagementSystem\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
