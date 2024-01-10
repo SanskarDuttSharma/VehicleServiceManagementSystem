@@ -19,6 +19,7 @@ namespace DataAccessLayer.DAL
 
         public OrderDetail GenerateInvoiceForService(int id, int paymentType, int amount)
         {
+            /* TODO : CHECK THE FUNCTINALITY AGAIN FOR ASYNC*/
             ServiceDetail currentServiceDetails = _dbContext.ServiceDetails.Where(service => service.Id == id).FirstOrDefault();
             OrderDetail orderDetail = new OrderDetail()
             {
